@@ -1,5 +1,5 @@
 # Hello!
-I'm Zidan (A.K.A King Pea if you're from pvz community)
+I'm Zidan (A.K.A King Pea if you're from Plants vs. Zombies community)
 
 INFP 4W5 RIA
 
