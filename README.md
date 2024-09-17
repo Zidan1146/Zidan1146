@@ -1,77 +1,34 @@
-# I don't understand
-What's this? just a readme?
-## Let me fix that
-For everyone interested, I'm Zidan Alpha Rizky 
+# Hello!
+I'm Zidan (A.K.A King Pea if you're from pvz community)
 
-THAT'S IT?
-## No damn it
-I ❤️ new stuff, and doing things weird like making this readme :P
+Likes:
+- Generating new and original idea
+- Facing new challenges and learn from them!
+- Musics (<- essential for me)
+- Programming and modding! (I tend to code more than arrange UIs, though I have a nice basics for it)
+- Freedom of expression
 
-WHAT, THIS README IS A NONSENSE
-## What do you want?
-PLEASE MAKE THIS README MORE INTERESTING
+## What am I aiming for in the future?
 
-[This](https://youtu.be/dQw4w9WgXcQ?si=mAZr1UdQqkU1wH1d) might work ;)
+Answer: Completing Grotesque's Project (A "Plants vs. Zombies 2: It's about time" fanmade mod created by me and bunch of internet "friends"), while also tries to constantly learning about newest tech stuffs. And of course! Getting a job, specifically Backend Developement... Because it challenges me into thinking about how to ensure a safely of an API and implement unique system!
 
-UGH WHAT AN UGLY LINK 😒
-## Then you're uglier than the link
-WHATEVER, IM OUT
+## Technology Stacks that I planned to learn and wish to master
 
-He's gone? duh, what a weird guy
-## You should Continue the Introduction
-I... Should?
-## Of course!
-So let's continue then
+- Go (backend)
+- JavaScript (in general, most likely fullstack frameworks)
+- MongoDB (personal preference, becuse of past experience with jsons)
+- Firebase (personal preference, becuse of past experience with jsons)
+- C++ (reverse enginnering, game developement)
+- Flutter
+- Jetpack Compose
 
-Im 17 years old at this moment
+## Here's some motivational quotes
 
-Other than new stuff, i love programming!
-
-especially JavaScript
-
-EW JAVASCRIPT, MY HOMIE USES CHICKEN PROGRAMMING LANGUAGE
-
-what's that? 😮
-
-## Better not search it out
-TRY [IT](https://esolangs.org/wiki/Chicken)
-## I said, ugh
-wha
-## Back to topic, tell your experience!
-Uhm... What is it, i don't remember
-
-HAH I KNEW YOU DON'T HAVE ANY EXPERIENCE
-## Give him time...
-...Can you guys find me a fun image, is... for a project
-
-NO
-
-gimmie some seconds
-## You're supposed to introduce yourself you... you.. nevermind
-ALRIGHT ALRIGHT I WILL INTRODUCE MYSELF TO YOU GUYS
-
-IM ZIDAN TOO, JUST WITH CAPS LOCK ON!
-
-IM NOT ANGRY, IM JUST... ONE OF HIS STUPID PERSONA, I LIKE WILD STUFF, COMPLAINING WITH EVERYTHING
-
-...did you find... it?
-
-NO GET OUT NOW!!
-
-...😭😭😭
-## This is chaos
-Alright i didn't find it, pretty bad :(
-
-HE'S GONE, DON'T HAVE TO, HE'S CRYING AGAIN LIKE LAST TIME
-
-Oh yeah you're back, why im not realizing that, hmph
-
-IM HERE THIS WHOLE TIME AND JUST REALIZE JUST NOW
-
-NO WONDER SHE LEFT YOU
-
-Who?
-
-FORGET ABOUT IT
-## Remember to introduce...
-# To be Continue? (Probably never continued...)
+- There's no light without dark
+- We can always try it once again
+- Failure is a path to success
+- No one knows you better than yourself
+- Less is more
+- Red is love, red is life
+- We have to keep going, no matter the weight we bring
+- Use time wisely, we cannot undo our decisions
