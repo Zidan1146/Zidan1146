@@ -12,7 +12,7 @@ Likes:
 
 ## What am I aiming for in the future?
 
-Answer: Completing Grotesque's Project (A "Plants vs. Zombies 2: It's about time" fanmade mod created by me and bunch of internet "friends"), while also tries to constantly learning about newest tech stuffs. And of course! Getting a job, specifically Backend Developement... Because it challenges me into thinking about how to ensure a safely of an API and implement unique system! Also, wished to make pvz2 modding sceme easier than ever!
+Answer: Completing Grotesque's Project (A "Plants vs. Zombies 2: It's about time" fanmade mod created by me and bunch of internet "friends"), while also tries to constantly learning about newest tech stuffs. And of course! Getting a job, specifically Backend Developement... Because it challenges me into thinking about how to ensure a safely of an API and implement unique system! Also, wished to make pvz2 modding scene easier than ever!
 
 ## Here's some motivational quotes
 
