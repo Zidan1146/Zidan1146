@@ -7,12 +7,12 @@ Likes:
 - Generating new and original idea
 - Facing new challenges and learn from them!
 - Musics (<- essential for me)
-- Programming and modding! (I tend to code more than arrange UIs, though I have a nice basics for it)
+- Programming and game modding!
 - Freedom of expression
 
 ## What am I aiming for in the future?
 
-Answer: Completing Grotesque's Project (A "Plants vs. Zombies 2: It's about time" fanmade mod created by me and bunch of internet "friends"), while also tries to constantly learning about newest tech stuffs. And of course! Getting a job, specifically Backend Developement... Because it challenges me into thinking about how to ensure a safely of an API and implement unique system! Also, wished to make pvz2 modding scene easier than ever!
+Answer: Learn unity and make games on my own. I aim for joining couple of game jams near future and eager to work in a game company as a developer/programmer.
 
 ## Here's some motivational quotes
 
@@ -24,3 +24,7 @@ Answer: Completing Grotesque's Project (A "Plants vs. Zombies 2: It's about time
 - Red is love, red is life
 - We have to keep going, no matter the weight we bring
 - Use time wisely, we cannot undo our decisions
+
+## Further Contacts
+
+King Pea (king.pea) on discord
