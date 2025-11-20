@@ -10,10 +10,6 @@ Likes:
 - Programming and game modding!
 - Freedom of expression
 
-## What am I aiming for in the future?
-
-Answer: Learn unity and make games on my own. I aim for joining couple of game jams near future and eager to work in a game company as a developer/programmer.
-
 ## Here's some motivational quotes
 
 - There's no light without dark
