@@ -1,26 +1,14 @@
 # Hello!
-I'm Zidan (A.K.A King Pea if you're from Plants vs. Zombies community)
+I'm Zidan (A.K.A King Pea), 20 y.o. looking for next cool ideas comes true! :star::star:
 
-INFP 4W5 RIA
+:blue_book: Currently learning
 
-Likes:
-- Generating new and original idea
-- Facing new challenges and learn from them!
-- Musics (<- essential for me)
-- Programming and game modding!
-- Freedom of expression
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## Here's some motivational quotes
 
-- There's no light without dark
-- We can always try it once again
-- Failure is a path to success
-- No one knows you better than yourself
-- Less is more
-- Red is love, red is life
-- We have to keep going, no matter the weight we bring
-- Use time wisely, we cannot undo our decisions
 
-## Further Contacts
-
-King Pea (king.pea) on discord
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20can%20always%20try%20it%20once%20again)](https://github.com/piyushsuthar/github-readme-quotes)
